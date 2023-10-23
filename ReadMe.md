@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estagiando na Visdom Tecnolgia <br>🌱 Aprendendo Laravel e Django<br>⚡ Quarto período Analise de Desenvolvimento de Sistema - IF Baiano Campus Guanambi   
+🔭 Estagiando na Visdom Tecnolgia <br>🌱 Estudando Flutter⚡ Quarto período Analise de Desenvolvimento de Sistema - IF Baiano Campus Guanambi   
 
 
 ## 🌐 Socials:
