@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estagiando na Visdom Tecnolgia <br>🌱 Estudando Flutter <br>⚡ Quarto período Analise de Desenvolvimento de Sistema - IF Baiano Campus Guanambi   
+🔭 5° Semestre em Analise de Desenvolvimento de Sistema - IF Baiano Campus Guanambi    <br>🌱 Estudando Flutter <br>⚡  
 
 
 ## 🌐 Socials:
