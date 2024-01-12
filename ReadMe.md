@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 5° Semestre em Analise de Desenvolvimento de Sistema - IF Baiano Campus Guanambi    <br>🌱 Estudando Flutter <br>⚡  
+⚡ Desenvolvedor backend <br>🔭 5° Semestre em Analise de Desenvolvimento de Sistema - IF Baiano Campus Guanambi    <br>🌱 Estudando Flutter
 
 
 ## 🌐 Socials:
@@ -16,4 +16,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jmatheuscosta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
--->
+
