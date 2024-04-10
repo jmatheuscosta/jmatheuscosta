@@ -1,5 +1,7 @@
 # 💫 About Me:
-Desenvolvedor back-end<br>Análise e Desenvolvimento de Sistemas - IFBaiano Campus Guanambi<br>
+Desenvolvedor back-end<br>
+Análise e Desenvolvimento de Sistemas - IFBaiano Campus Guanambi<br>
+Estudando Flutter
 
 
 ## 🌐 Socials:
